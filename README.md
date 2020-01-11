@@ -1,2 +1,7 @@
 # aztec-ignition-verification
 AZTEC Ignition Ceremony Attestation
+
+Attestation:
+Message: https://www.aztecprotocol.com/ignition/participant/0x65ee7c57c1eb5fc92f7bfdb7c80aff940c507cc0/?timestamp=1578770321327
+Hash: 0x9cd38e4488f68f5cc13a7fc4efe8198b4c95b3189a3d461061020f40dc0392e5
+Signature: 0x4fcbe6101bd23253017feb5da66549db5c82582538a80179a57623488b6be3216c10d77c4753bfbc9f1cd9d0c841b5d83e307dbe7f16193f9c3dd3c34278c8691c
